@@ -1,0 +1,17 @@
+# Python 缓存与构建产物
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+
+# Isaac Lab、Hydra 与训练生成物
+/outputs/
+/logs/
+/obstacle_avoidance_marl/
+
+# 常见临时文件
+*.log
+*.tmp
+*~

@@ -1,0 +1,10 @@
+{
+    "ROS2.distro": "noetic",
+    "python.analysis.extraPaths": [
+        "/home/zhangl/Isaaclab20260520/IsaacLab/source/isaaclab",
+        "/home/zhangl/Isaaclab20260520/IsaacLab/source/isaaclab_tasks",
+        "/home/zhangl/Isaaclab20260520/IsaacLab/source/isaaclab_assets",
+        "/home/zhangl/Isaaclab20260520/IsaacLab/source/isaaclab_rl",
+        "/home/zhangl/Isaaclab20260520/obstacle_avoidance/isaaclab_obstacle_avoidance_task/source/obstacle_avoidance_task"
+    ]
+}

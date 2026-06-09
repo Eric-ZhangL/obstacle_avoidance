@@ -1,0 +1,9 @@
+[package]
+version = "0.1.0"
+category = "isaaclab"
+title = "Obstacle Avoidance MARL Task"
+description = "Isaac Lab + skrl 多车路径规划避障强化学习任务"
+author = "zhangl"
+maintainer = "zhangl"
+repository = ""
+keywords = ["isaaclab", "obstacle-avoidance", "navigation", "marl", "skrl"]
