@@ -1,6 +1,6 @@
 # Isaac Lab 多车路径规划避障 Demo
 
-基于 Isaac Lab、PyTorch 和 skrl MAPPO/IPPO 实现的多车在线避障 Demo。
+基于 Isaac Lab、PyTorch 和 skrl MAPPO/IPPO 实现的多阿克曼车强化学习在线避障 Demo。
 
 默认在 `20 × 20m` 封闭场地中生成 4 辆车、3 个静态圆柱障碍物和 1 个动态圆柱障碍物。
 每次环境重置都会重新采样车辆起点、独立目标点和障碍物位置。项目不包含 A* 等全局规划器，
